@@ -4,9 +4,10 @@ Simple BAT utility for working with OnePlus5
 <br>Supported languages: Russian only
 <br>
 <b>Script encoding:</b>СP866 
-# What is the advantage of my utility?
-
+# What are the advantages of my utility?
 [+] No installation required
+[+] Easy for use
+[+] Small size
 # Features
 * Download and install the driver (Universal ADB Driver)
   * Disable\Enable driver signature verification (Requires reboot and Admin rights)
@@ -25,7 +26,7 @@ Simple BAT utility for working with OnePlus5
   * Qualcomm Dloader (QFIL flash mode)
 * Install APK
 * Create/Restore ADB backup
-# Downloadable Files {Files will download automatically from my server)
+# Downloadable Files (Files will download automatically from my server)
 * Universal ADB Driver
 * TWRP codeworkx
 # Included Software
