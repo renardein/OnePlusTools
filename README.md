@@ -26,7 +26,7 @@ Simple BAT utility for working with OnePlus5
   * Qualcomm Dloader (QFIL flash mode)
 * Install APK
 * Create/Restore ADB backup
-# Downloadable Files (Files will download automatically from my server)
+# Downloadable Files (Files will be downloaded automatically from my server)
 * Universal ADB Driver
 * TWRP codeworkx
 # Included Software
